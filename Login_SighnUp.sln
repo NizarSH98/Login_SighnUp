@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Login_SighnUp", "Login_SighnUp\Login_SighnUp.esproj", "{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B89EB2-F3EA-4CFF-A580-7AC36F5FC33A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4C8270-3320-4D08-B73D-4FAEBFC681BD}
+	EndGlobalSection
+EndGlobal
